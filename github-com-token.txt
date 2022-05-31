@@ -1,0 +1,5 @@
+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
+
+git remote add origin https://github.com/imPROgramer/mean2.git
+git branch -M main
+git push -u origin main
